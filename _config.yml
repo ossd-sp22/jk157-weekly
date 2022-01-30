@@ -13,12 +13,12 @@ description: CSCI-UA 480 Student, Spring 2022
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-# avatar: images/icon.png 
-avatar: https://ossd-sp22.github.io/jk157-weekly/images/icon.png 
+avatar: images/icon.png 
+# avatar: https://ossd-sp22.github.io/jk157-weekly/images/icon.png 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Joanna's avatar
 
-excerpt_separator: <!--more--> 
+#excerpt_separator: <!--more--> 
 
 # CUSTOMIZE
 #
